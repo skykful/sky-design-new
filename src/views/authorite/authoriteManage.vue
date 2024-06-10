@@ -1,0 +1,7 @@
+<template>
+  <div class="authorite-manage">authoriteManage</div>
+</template>
+
+<script lang="ts" setup name=""></script>
+
+<style lang="less"></style>
